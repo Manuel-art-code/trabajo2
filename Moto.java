@@ -1,7 +1,7 @@
 
 public class Moto extends Vehiculo {
 
-    private String tipo;   // "deportiva", "scooter", "todoterreno", etc.
+    private String tipo;   
 
     public Moto(String placa, String marca, double velocidadMaxima, String tipo) {
         super(placa, marca, velocidadMaxima);
