@@ -6,7 +6,7 @@ public abstract class Vehiculo {
     protected String marca;
     protected double velocidadMaxima;   
 
-    // Constructor
+    
     public Vehiculo(String placa, String marca, double velocidadMaxima) {
         this.placa           = placa;
         this.marca           = marca;
