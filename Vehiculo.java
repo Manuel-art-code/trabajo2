@@ -4,7 +4,7 @@ public abstract class Vehiculo {
     
     protected String placa;
     protected String marca;
-    protected double velocidadMaxima;   // km/h
+    protected double velocidadMaxima;   
 
     // Constructor
     public Vehiculo(String placa, String marca, double velocidadMaxima) {
