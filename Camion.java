@@ -1,7 +1,7 @@
 
 public class Camion extends Vehiculo {
 
-    private double capacidadCarga;   // en toneladas
+    private double capacidadCarga;   
 
     public Camion(String placa, String marca, double velocidadMaxima,
                   double capacidadCarga) {
